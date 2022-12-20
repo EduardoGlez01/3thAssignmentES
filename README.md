@@ -1,2 +1,2 @@
 # 1stassingment
-This is the first assingment of the Data Journalism Class at CUNY
+This is the last assignment of the Data Journalism course at CUNY
