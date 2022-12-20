@@ -1,2 +1,2 @@
 # 1stassingment
-This is the last assignment of the Data Journalism course at CUNY
+Map who shows how the political panorama in the country has some connection with the amount of hate speech groups.
