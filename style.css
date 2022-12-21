@@ -128,11 +128,11 @@ figure {
 
 /*ADD HERE*/
 .flex {
-    padding: 5 px;
+    padding: 2 px;
 }
 
 .flex > div {
-    padding: 5 px;
+    padding: 2 px;
 }
 
 
